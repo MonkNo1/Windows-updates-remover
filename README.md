@@ -1,4 +1,5 @@
-"Windows-updates-remover It is batch file which helps us to remove the download windows updates file with single click" 
+It is batch file which helps us to remove the download windows updates file before updating with single click
+So that it will not ask you for 'restart to update'
 
 installation : 
 ```
